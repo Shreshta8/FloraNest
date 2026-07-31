@@ -1,0 +1,6 @@
+{
+  "name": "FloraNest - Premium Online Flower Shop",
+  "description": "Flowers for Every Feeling. Modern, elegant, responsive flower shop landing page with Shop by Emotion and Build Your Own Bouquet interactive experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
